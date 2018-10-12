@@ -1,6 +1,8 @@
 # woocommerce-settings
 Here are a few settings to get you started developing with woocommerce.
 
+##### What is Namespace
+Make sure to place a unique identifier of your website to distinguish between your functions and WooCommerce.
 
 ## Notes
 I hope this helps. Here are some hooks that have helped me in the past when theming/developing for WooCommerce.
